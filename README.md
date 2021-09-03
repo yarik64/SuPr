@@ -1,2 +1,2 @@
-# My Super Project
+# My super project
 Это мой репозиторий!
